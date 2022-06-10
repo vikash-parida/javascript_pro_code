@@ -1,2 +1,5 @@
 let num = 15;
-console.log(num);
+let s = num + " ";
+let n = +s
+console.log(s);
+
